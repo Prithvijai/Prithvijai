@@ -1,8 +1,6 @@
-
-<img align="center" alt="Coding" widht="200" lenght ="400" src="https://cdn.discordapp.com/attachments/1006637209065103471/1110981809346457620/discord-banner-gif-5.gif">
 <h1 align="center">Hi there 👋, I'm Prithvi Jai R</h1>
 <h3 align="center">Code, Circuitry, and Cybersecurity: Navigating the Robotic Realm</h3>
-
+<img align="center" alt="Coding" widht="200" lenght ="400" src="https://cdn.discordapp.com/attachments/1006637209065103471/1110981809346457620/discord-banner-gif-5.gif">
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/1a/08/90/1a0890fe128b67f16ee259243e7d8557.jpg">
 
