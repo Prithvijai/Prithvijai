@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Prithvi Jai R</h1>
-<h3 align="center">Code, Circuitry, and Cybersecurity: Navigating the Robotic Realm</h3>
+<h3 align="center">An aspiring Robotics and software developer</h3>
 <img align="center" alt="Coding" widht="200" length ="400" src="https://cdn.discordapp.com/attachments/1006637209065103471/1110981809346457620/discord-banner-gif-5.gif">
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/1a/08/90/1a0890fe128b67f16ee259243e7d8557.jpg">
 <!https://rahuldkjain.github.io/gh-profile-readme-generator/>
 
-- 🌱 I’m currently learning and intermediate **ROS, Computer vision, SLAM**
+- 🌱 I’m currently learning and intermediate **ROS2, Computer vision, SLAM, Moveit2**
 
 - 📫 How to reach me **prithvijai0510@gmail.com**
 
