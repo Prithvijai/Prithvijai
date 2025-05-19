@@ -6,23 +6,6 @@
 
 <p> I'm deeply invested in the intersection of Robotics, ML, Computer Vision, DL, and RL. I enjoy exploring the rapidly growing world of Robotics and ML. Apart from programming, I like building robots and testing out hardware, microcontrollers, and sensors. </p>
 
-<!-- About Me -->
-<h3>👨‍💻 About Me</h3>
-
-<ul>
-  <li>🎓 Pursuing a Master’s in Robotics at <strong>ASU</strong></li>
-  <li>🤖 Building Perception, Control, Trajectory, and Navigation pipelines using <strong>ROS 2</strong>, <strong>PyTorch</strong>, <strong>Python</strong>, and <strong>C++</strong></li>
-  <li>⚙️ Interested in Robot Learning, Perception, and Machine Vision; familiar with simulators and frameworks like <strong>ROS 2</strong>, <strong>MoveIt 2</strong>, <strong>Nav2</strong>, <strong>Gazebo</strong>, <strong>MuJoCo</strong>, and <strong>Isaac Sim</strong></li>
-  <li>🧠 Trained, fine-tuned, and ran inference on ML models ranging from <strong>MLPs</strong>, <strong>CNNs</strong>, and <strong>RNNs</strong> to <strong>Transformers</strong>, <strong>LLMs</strong>, <strong>Diffusion Models</strong>, and <strong>VLAs</strong> using <strong>PyTorch</strong>, <strong>Python</strong>, <strong>Ultralytics</strong>, <strong>ONNX</strong>, and <strong>Hugging Face</strong></li>
-</ul>
-<!-- Projects -->
-<h3>🚀 Featured Projects</h3>
-
-<ul>
-  <li>🦾 <a href="https://github.com/Prithvijai/panda_robot_learning">Franka Emika Pick-and-Place</a> – Robotic manipulation in MuJoCO, enabling the Panda arm to pick up blocks using OpenVLA Server</li>
-  <li>🚗 <a href="https://github.com/Prithvijai/microbot">Custom 4-Wheel Microbot</a> – Implementing SLAM on a custom-designed four-wheeled robot platform on ROS2</li>
-  <li>🕹️ <a href="https://github.com/Prithvijai/Atari_RL">Atari RL Agent</a> – Training reinforcement learning algorithms to play Atari games from pixels</li>
-</ul>
 
 <h4 align="center"> <p align="left">Check out my Project Showcase on <a href="https://prithvijai.github.io/">Portfolio</a> </p> <p align="right">Connect With Me:<a href="https://linkedin.com/in/prithvi jai r" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /> </a></p></h3> 
