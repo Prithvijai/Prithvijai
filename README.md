@@ -6,17 +6,29 @@
 
 <p> I’m currently pursuing a Master’s in Robotics, with a strong focus on Machine Learning and modern robotic systems. My work spans Perception, Control, Trajectory Planning, and Navigation, where I build scalable and efficient pipelines using ROS 2, PyTorch, Python, and C++ for robotic systems. I'm deeply invested in the intersection of Robotics, ML, and MLOps, exploring both foundational algorithms and cutting-edge developments to drive intelligent and autonomous systems. </p>
 
+<!-- About Me -->
+<h2>👨‍💻 About Me</h2>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <span>Check out my Project Showcase on <a href="https://prithvijai.github.io/">Portfolio</a></span>
-  <span>
-    Connect with me: 
-    <a href="https://linkedin.com/in/prithvi jai r" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
-    </a>
-  </span>
-</div>
+<ul>
+  <li>🎓 Pursuing Master’s in Robotics @ <strong>ASU</strong></li>
+  <li>🤖 Building Perception, Control, Trajectory, and Navigation pipelines using <strong>ROS 2</strong>, <strong>PyTorch</strong>, <strong>Python</strong>, and <strong>C++</strong></li>
+  <li>⚙️ Focused on cutting-edge research at the intersection of <strong>Robotics</strong>, <strong>ML</strong>, and <strong>MLOps</strong></li>
+  <li>🎯 Passionate about real-world deployment of autonomous robotic systems</li>
+  <li>🎵 Hobbies: music, gym, and learning new tech</li>
+</ul>
 
+<!-- Projects -->
+<h2>🚀 Featured Projects</h2>
+
+<ul>
+  <li>🔧 <a href="https://github.com/Prithvi-Jai/panda-robot](https://github.com/Prithvijai/panda_robot_learning">Franka Emika Pick-and-Place</a> – Robotic manipulation using ROS 2 and MoveIt</li>
+  <li>🧠 <a href="https://github.com/Prithvi-Jai/bias-aware-classifier">Bias-Aware Classifier</a> – Fair classification with PyTorch and bias mitigation techniques</li>
+  <li>🛰️ <a href="https://github.com/Prithvi-Jai/yolov8-vision-system">YOLOv8 Vision System</a> – Real-time object detection pipeline</li>
+</ul>
+
+<h4 align="center"> <p align="left">Check out my Project Showcase on <a href="https://prithvijai.github.io/">Portfolio</a> </p> <p align="right">Connect With Me:<a href="https://linkedin.com/in/prithvi jai r" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /> </a></p></h3> 
+<h3 align="right">  </h4>
 
 
 <!-- GitHub Languages Card on the Right -->
