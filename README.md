@@ -4,26 +4,24 @@
 <h4 align="center"> ML & Robotics Software Engineer | Master's in Robotics @ ASU  </h4>
 
 
-<p> I’m currently pursuing a Master’s in Robotics, with a strong focus on Machine Learning and modern robotic systems. My work spans Perception, Control, Trajectory Planning, and Navigation, where I build scalable and efficient pipelines using ROS 2, PyTorch, Python, and C++ for robotic systems. I'm deeply invested in the intersection of Robotics, ML, and MLOps, exploring both foundational algorithms and cutting-edge developments to drive intelligent and autonomous systems. </p>
+<p> I'm deeply invested in the intersection of Robotics, ML, Computer Vision, DL, and RL. I enjoy exploring the rapidly growing world of Robotics and ML. Apart from programming, I like building robots and testing out hardware, microcontrollers, and sensors. </p>
 
 <!-- About Me -->
-<h2>👨‍💻 About Me</h2>
+<h3>👨‍💻 About Me</h3>
 
 <ul>
-  <li>🎓 Pursuing Master’s in Robotics @ <strong>ASU</strong></li>
+  <li>🎓 Pursuing a Master’s in Robotics at <strong>ASU</strong></li>
   <li>🤖 Building Perception, Control, Trajectory, and Navigation pipelines using <strong>ROS 2</strong>, <strong>PyTorch</strong>, <strong>Python</strong>, and <strong>C++</strong></li>
-  <li>⚙️ Focused on cutting-edge research at the intersection of <strong>Robotics</strong>, <strong>ML</strong>, and <strong>MLOps</strong></li>
-  <li>🎯 Passionate about real-world deployment of autonomous robotic systems</li>
-  <li>🎵 Hobbies: music, gym, and learning new tech</li>
+  <li>⚙️ Interested in Robot Learning, Perception, and Machine Vision; familiar with simulators and frameworks like <strong>ROS 2</strong>, <strong>MoveIt 2</strong>, <strong>Nav2</strong>, <strong>Gazebo</strong>, <strong>MuJoCo</strong>, and <strong>Isaac Sim</strong></li>
+  <li>🧠 Trained, fine-tuned, and ran inference on ML models ranging from <strong>MLPs</strong>, <strong>CNNs</strong>, and <strong>RNNs</strong> to <strong>Transformers</strong>, <strong>LLMs</strong>, <strong>Diffusion Models</strong>, and <strong>VLAs</strong> using <strong>PyTorch</strong>, <strong>Python</strong>, <strong>Ultralytics</strong>, <strong>ONNX</strong>, and <strong>Hugging Face</strong></li>
 </ul>
-
 <!-- Projects -->
-<h2>🚀 Featured Projects</h2>
+<h3>🚀 Featured Projects</h3>
 
 <ul>
-  <li>🔧 <a href="https://github.com/Prithvi-Jai/panda-robot](https://github.com/Prithvijai/panda_robot_learning">Franka Emika Pick-and-Place</a> – Robotic manipulation using ROS 2 and MoveIt</li>
-  <li>🧠 <a href="https://github.com/Prithvi-Jai/bias-aware-classifier">Bias-Aware Classifier</a> – Fair classification with PyTorch and bias mitigation techniques</li>
-  <li>🛰️ <a href="https://github.com/Prithvi-Jai/yolov8-vision-system">YOLOv8 Vision System</a> – Real-time object detection pipeline</li>
+  <li>🦾 <a href="https://github.com/Prithvijai/panda_robot_learning">Franka Emika Pick-and-Place</a> – Robotic manipulation in MuJoCO, enabling the Panda arm to pick up blocks using OpenVLA Server</li>
+  <li>🚗 <a href="https://github.com/Prithvijai/microbot">Custom 4-Wheel Microbot</a> – Implementing SLAM on a custom-designed four-wheeled robot platform on ROS2</li>
+  <li>🕹️ <a href="https://github.com/Prithvijai/Atari_RL">Atari RL Agent</a> – Training reinforcement learning algorithms to play Atari games from pixels</li>
 </ul>
 
 <h4 align="center"> <p align="left">Check out my Project Showcase on <a href="https://prithvijai.github.io/">Portfolio</a> </p> <p align="right">Connect With Me:<a href="https://linkedin.com/in/prithvi jai r" target="_blank">
