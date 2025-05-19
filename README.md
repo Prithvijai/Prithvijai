@@ -1,27 +1,19 @@
-<!--<h1 align="center">Hi there 👋</h1> -->
-<h3 align="left">Hi there 👋</h3>
-<!-- <img align="center" alt="Coding" widht="200" length ="400" src="https://cdn.discordapp.com/attachments/1006637209065103471/1110981809346457620/discord-banner-gif-5.gif"> -->
 
-<!--<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/1a/08/90/1a0890fe128b67f16ee259243e7d8557.jpg">
-<!https://rahuldkjain.github.io/gh-profile-readme-generator/> -->
+![Black Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/5cc0f433-4a8a-477a-a7fc-a2c26aa0033b)
 
-I am an Robotics Software Engineer & ML/DL Engineer | Passionate about ROS2, robotics algorithms, deep learning, machine learning, and reinforcement learning | Building autonomous systems and AI-driven robots | Open to opportunities in robotics and AI.
+<h4 align="center"> ML & Robotics Software Engineer | Master's in Robotics @ ASU  </h4>
 
-- 📫 How to reach me **prithvijai0510@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prithvi jai r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prithvi jai r" height="20" width="20" /></a>
-</p>
+<p> I’m currently pursuing a Master’s in Robotics, with a strong focus on Machine Learning and modern robotic systems. My work spans Perception, Control, Trajectory Planning, and Navigation, where I build scalable and efficient pipelines using ROS 2, PyTorch, Python, and C++ for robotic systems. I'm deeply invested in the intersection of Robotics, ML, and MLOps, exploring both foundational algorithms and cutting-edge developments to drive intelligent and autonomous systems. </p>
+
+
+Check out my Project ShowCase in <a href="https://prithvijai.github.io/"> Portfolio </a>
+
+<h4 align="left">Connect with me: <a href="https://linkedin.com/in/prithvi jai r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prithvi jai r" height="15" width="15" /></a> </h4> 
+
 
 <h3 align="left">Languages and Tools:</h3>
-
-
-
-
-
-          
-          
+                    
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
@@ -67,5 +59,11 @@ I am an Robotics Software Engineer & ML/DL Engineer | Passionate about ROS2, rob
 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvijai&show_icons=true&locale=en&layout=compact" alt="prithvijai" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvijai&show_icons=true&locale=en&layout=compact" alt="prithvijai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithvijai&show_icons=true&locale=en" alt="prithvijai" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvijai&" alt="prithvijai" /></p>
+
+### Contact
+📧 **Email:** prithvijai0510@gmail.com  
