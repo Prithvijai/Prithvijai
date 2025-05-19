@@ -30,7 +30,7 @@
 
 
 <!-- GitHub Languages Card on the Right -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvijai&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prithvijai&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
 <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
