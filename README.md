@@ -12,27 +12,36 @@
   <strong>Check out my pinned repositories below to see my work.</strong>
 </p>
 
-<p align="left">
-  <strong>Connect With Me:</strong>
-  <a href="https://linkedin.com/in/prithvi-jai-ramesh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="18" width="18" style="vertical-align: middle;" />
-  </a>
-  &nbsp; | &nbsp; 📧 <strong>Email:</strong> <a href="mailto:prithvijai0510@gmail.com">prithvijai0510@gmail.com</a>
 
- 
-
-  <strong>Languages and Tools:</strong>
-  &nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="22" height="22" style="vertical-align: middle;"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="22" height="22" style="vertical-align: middle;"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="22" height="22" style="vertical-align: middle;"/></a>
-  <a href="https://www.ros.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" alt="ros" width="22" height="22" style="vertical-align: middle;"/></a>
-  <a href="https://pytorch.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="22" height="22" style="vertical-align: middle;"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="22" height="22" style="vertical-align: middle;"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="22" height="22" style="vertical-align: middle;"/></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="22" height="22" style="vertical-align: middle;"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22" style="vertical-align: middle;"/></a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" width="260">
+<strong>Connect With Me:</strong><br />
+<a href="https://linkedin.com/in/prithvi-jai-ramesh" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="18" width="18" style="vertical-align: middle;" />
+<strong>LinkedIn</strong>
+</a><br />
+📧 <strong>Email:</strong><br />
+<a href="mailto:prithvijai0510@gmail.com">prithvijai0510@gmail.com</a>
+</td>
+<td valign="top">
+<strong>Languages and Tools:</strong><br />
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" />&nbsp;</td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32" />&nbsp;</td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" />&nbsp;</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" width="32" height="32" />&nbsp;</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="32" height="32" />&nbsp;</td>
+<td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="32" height="32" />&nbsp;</td>
+<td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="32" height="32" />&nbsp;</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" height="32" />&nbsp;</td>
+<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" height="32" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 
 <!-- <br clear="right"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvijai&layout=donut&theme=aura&hide=jupyter%20notebook" /> -->
