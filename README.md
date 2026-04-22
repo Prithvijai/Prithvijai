@@ -42,7 +42,7 @@
       </p>
     </td>
     <td align="right" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y2Z2NneXF4eXF4eXF4eXF4eXF4eXF4eXF4eXF4eXF4eXF4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/mIZ9rPeMKefm0/giphy.gif" width="180" alt="Robotics GIF" />
+      <img src="assets/gallery.jpg" width="220" alt="Robotics Gallery" />
     </td>
   </tr>
 </table>
